@@ -11,10 +11,10 @@
     <a href="https://jomaserver.github.io" target="_blank">
       <img src="https://img.shields.io/badge/WEBSITE-Jomaserver_Blog-000000?style=for-the-badge&logo=firefox&logoColor=4af626&border=4af626" alt="Website" />
     </a>
-    <a href="https://www.linkedin.com/in/" target="_blank">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-amaral-585944390/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Conecte--se-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="Linkedin" />
     </a>
-    <a href="mailto:seu_email@unb.br">
+    <a href="jmarcelo930@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-Contato-000000?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
     </a>
   </p>
