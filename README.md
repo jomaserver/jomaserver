@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jomas!;Biotecnologista+(UnB);Bioinformata+em+Forma%C3%A7%C3%A3o;Game+Dev+Indie;Explorer+do+Genoma+Vegetal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jomas!;Biotecnologista+(UnB);Game+Dev+Indie;Explorer+do+Genoma+Vegetal" alt="Typing SVG" />
   </a>
 
   <p align="center">
