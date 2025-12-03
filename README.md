@@ -4,7 +4,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jomas!;Biotecnologista+(UnB);Game+Dev+Indie;Explorer+do+Genoma+Vegetal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jomas!;Biotecnologista+(UnB);Explorer+em+Genoma+Vegetal" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -49,7 +49,7 @@
         🔭 <b>Pesquisa Atual (PIBIC):</b><br>
         Montagem e anotação genômica de <i>Andropogon</i> (Gramíneas).<br><br>
         🌱 <b>Estudando:</b><br>
-        Pipelines de Phasing, Nextflow e Genômica Comparativa.<br><br>
+        Pipelines de Phasing e Genômica Comparativa.<br><br>
         🎮 <b>Side Quest:</b><br>
         Criando <i>"I WANT TO BE HUMAN"</i> — um jogo sobre consciência.
       </td>
