@@ -22,7 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🧬 <span style="color:#4af626">DATA DECODED:</span> Sobre Mim</h2>
+<h2 align="center">🧬 <span style="color:#4af626">Data:</span> Sobre Mim</h2>
 
 <div align="center">
   <table style="border: none; background-color: transparent;">
@@ -47,11 +47,11 @@
     <tr>
       <td align="left">
         🔭 <b>Pesquisa Atual (PIBIC):</b><br>
-        Montagem e anotação genômica de <i>Andropogon</i> (Gramíneas).<br><br>
+        Montagem e anotação genômica de <i>Andropogon gayanus</i>.<br><br>
         🌱 <b>Estudando:</b><br>
         Pipelines de Phasing e Genômica Comparativa.<br><br>
         🎮 <b>Side Quest:</b><br>
-        Criando <i>"I WANT TO BE HUMAN"</i> — um jogo sobre consciência.
+        Criando <i>"I WANT TO BE HUMAN"</i> — um jogo sobre humanidade.
       </td>
     </tr>
   </table>
