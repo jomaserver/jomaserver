@@ -86,7 +86,7 @@
 
 <br>
 
-<h2 align="center">📊 <span style="color:#4af626">ESTATÍSTICAS</span> do Sistema</h2>
+<h2 align="center">📊 <span style="color:#4af626">ESTATÍSTICAS</span></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jomaserver&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4af626&icon_color=4af626" height="180" alt="stats graph" />
