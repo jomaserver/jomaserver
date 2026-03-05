@@ -46,12 +46,10 @@
   <table>
     <tr>
       <td align="left">
-        🔭 <b>Pesquisa Atual (PIBIC):</b><br>
+         <b>Pesquisa Atual (PIBIC):</b><br>
         Montagem e anotação genômica de <i>Andropogon gayanus</i>.<br><br>
-        🌱 <b>Estudando:</b><br>
-        Pipelines de Phasing e Genômica Comparativa.<br><br>
-        🎮 <b>Side Quest:</b><br>
-        Criando <i>"I WANT TO BE HUMAN"</i> — um jogo sobre humanidade.
+         <b>Estudando:</b><br>
+        Phasing e Genômica Comparativa.<br><br>
       </td>
     </tr>
   </table>
@@ -85,15 +83,6 @@
 </div>
 
 <br>
-
-<h2 align="center">📊 <span style="color:#4af626">ESTATÍSTICAS</span></h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jomaserver&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4af626&icon_color=4af626" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomaserver&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=4af626" height="180" alt="languages graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <br>
