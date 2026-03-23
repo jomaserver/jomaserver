@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="ROBO_INTRO-01.png" width="220" style="border-radius: 50%; border: 4px solid #4af626; box-shadow: 0 0 20px #4af626;" alt="Jomaserver Avatar">
   
   <br><br>
 
