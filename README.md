@@ -56,7 +56,6 @@
 
 <br>
 
-<h2 align="center">🛠️ <span style="color:#4af626">Tools</span></h2>
 
 <div align="center">
 
@@ -86,5 +85,5 @@
 <div align="center">
   <br>
   <p><i>"Science knows no country, because knowledge belongs to humanity."</i></p>
-  <h3>🚀 <a href="https://jomaserver.github.io" style="color: #4af626; text-decoration: none;">Acesse o Jomaserver Blog</a></h3>
+  <h3> <a href="https://jomaserver.github.io" style="color: #4af626; text-decoration: none;">Acesse o Jomaserver Blog</a></h3>
 </div>
