@@ -21,7 +21,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🧬 <span style="color:#4af626">Data:</span> Sobre Mim</h2>
+<h2 align="center"> <span style="color:#4af626"></span> Sobre Mim</h2>
 
 <div align="center">
   <table style="border: none; background-color: transparent;">
