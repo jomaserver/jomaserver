@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-amaral-585944390/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Conecte--se-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="Linkedin" />
     </a>
-    <a href="jmarcelo930@gmail.com">
+    <a href="mailto:jmarcelo930@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-Contato-000000?style=for-the-badge&logo=gmail&logoColor=d14836" alt="Email" />
     </a>
   </p>
