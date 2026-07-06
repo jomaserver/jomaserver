@@ -31,7 +31,7 @@
       </td>
       <td align="center" valign="middle" style="border: none; max-width: 600px;">
         <p>
-          Sou estudante de <b>Biotecnologia na Universidade de Brasília (UnB)</b>, misturando código com a complexidade da vida. Meu foco é transformar dados brutos de DNA em conhecimento biológico útil.
+          Sou estudante de <b>Biotecnologia na Universidade de Brasília (UnB)</b>. Meu foco é transformar dados brutos de DNA em conhecimento biológico útil.
         </p>
       </td>
       <td align="center" valign="middle" style="border: none; padding-left: 20px;">
