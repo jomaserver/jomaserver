@@ -70,7 +70,14 @@
   <img src="https://img.shields.io/badge/BIOINFO-Purge__dups-4af626?style=flat-square&logo=dna&logoColor=black" />
   <img src="https://img.shields.io/badge/BIOINFO-Kraken2-4af626?style=flat-square&logo=dna&logoColor=black" />
   <img src="https://img.shields.io/badge/BIOINFO-MitoHiFi-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-GenomeScope2-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-Miniprot-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-Minimap2-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-BUSCO-4af626?style=flat-square&logo=dna&logoColor=black" />
   <img src="https://img.shields.io/badge/BIOINFO-BlobTools-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-AnnoTEP-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-Inspector-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BIOINFO-Merqury-4af626?style=flat-square&logo=dna&logoColor=black" />
 
   <br><br>
 
