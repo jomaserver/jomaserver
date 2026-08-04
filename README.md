@@ -66,18 +66,18 @@
   
   <br><br>
 
-  <img src="https://img.shields.io/badge/Hifiasm-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Purge__dups-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kraken2-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/MitoHiFi-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/GenomeScope2-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Miniprot-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Minimap2-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/BUSCO-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/BlobTools-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/AnnoTEP-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Inspector-4af626?style=flat-square&logo=dna&logoColor=black" />
-  <img src="https://img.shields.io/badge/Merqury-4af626?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hifiasm-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Purge__dups-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kraken2-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/MitoHiFi-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/GenomeScope2-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Miniprot-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Minimap2-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BUSCO-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/BlobTools-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/AnnoTEP-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Inspector-b39ddb?style=flat-square&logo=dna&logoColor=black" />
+  <img src="https://img.shields.io/badge/Merqury-b39ddb?style=flat-square&logo=dna&logoColor=black" />
 
   <br><br>
 
