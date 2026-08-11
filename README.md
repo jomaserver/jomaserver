@@ -43,8 +43,6 @@
       <td align="left">
          <b>Pesquisa Atual (PIBIC):</b><br>
         Montagem e anotação genômica de <i>Andropogon gayanus</i>.<br><br>
-         <b>Estudando:</b><br>
-        Phasing e Genômica Comparativa.<br><br>
       </td>
     </tr>
   </table>
