@@ -2,10 +2,6 @@
   
   <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jomas!;Biotecnologista+(UnB);Genoma+Vegetal" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     <a href="https://jomaserver.github.io" target="_blank">
       <img src="https://img.shields.io/badge/WEBSITE-Jomaserver_Blog-000000?style=for-the-badge&logo=firefox&logoColor=4af626&border=4af626" alt="Website" />
