@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/AnnoTEP-b39ddb?style=flat-square&logo=dna&logoColor=black" />
   <img src="https://img.shields.io/badge/Inspector-b39ddb?style=flat-square&logo=dna&logoColor=black" />
   <img src="https://img.shields.io/badge/Merqury-b39ddb?style=flat-square&logo=dna&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/Braker3-b39ddb?style=flat-square&logo=dna&logoColor=black" />
   <br><br>
 
   <img src="https://img.shields.io/badge/Quarto-447099?style=for-the-badge&logo=quarto&logoColor=white" />
