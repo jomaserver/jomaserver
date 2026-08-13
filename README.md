@@ -31,6 +31,7 @@
         </p>
       </td>
       <td align="center" valign="middle" style="border: none; padding-left: 20px;">
+        <img src="readme.png" width="110" style="filter: drop-shadow(0 0 8px #4af626);" alt="Bio Detail Icon">
       </td>
     </tr>
   </table>
